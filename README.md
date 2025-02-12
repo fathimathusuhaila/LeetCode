@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Tsuhaila/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Tsuhaila/LeetCode/tree/master/0069-sqrtx) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Tsuhaila/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2491-smallest-even-multiple](https://github.com/Tsuhaila/LeetCode/tree/master/2491-smallest-even-multiple) |
 ## Array
 |  |
 | ------- |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Tsuhaila/LeetCode/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/Tsuhaila/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/Tsuhaila/LeetCode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
